@@ -26,7 +26,7 @@
 | `kubectl rollout history deployment <deployment_name>` | List all revisions of the deployment matching the supplied name. |
 | `kubectl rollout undo deployment <deployment_name> —to-revision=<revision_number>` | Rollback to a specific revision. |
 
-Useful links:
+## Useful links
 
 - Official documentation: https://kubernetes.io/docs
 - Code repository: https://github.com/kubernetes/kubernetes

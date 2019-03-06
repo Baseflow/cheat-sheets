@@ -31,7 +31,7 @@
 | `docker rm $(docker ps -a -f status=exited -q)` | Remove all docker containers. |
 | `docker exec [OPTIONS] CONTAINER COMMAND [ARG...]` | Execute a command on a running container. For example to start an interactive bash shell on a container named “ubuntu_bash” run: `docker exec -it ubuntu_bash bash`. |
 
-Useful links:
+## Useful links
 
 - Official documentation: https://docs.docker.com/
 - Containerd website: https://containerd.io/
