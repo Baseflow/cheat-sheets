@@ -6,6 +6,7 @@
 | ------- | ----------- |
 | `az login` | Sign-in interactively (this will open a browser window which will ask for your Azure Credentials). |
 | `az login -u <username> -p <password>` | Sign-in to Azure using the supplied username and password. Note: this approach doesn't work for Microsoft Accounts or accounts that have two-factor authentication enabled. |
+| `az account show --output table` | Show the account details for the current user. |
 
 ## Azure Kubernetes Service (AKS)
 
