@@ -6,6 +6,8 @@
 | ------- | ----------- |
 | `kubectl config current-context` | Check to which Kubernetes cluster we are connected. |
 | `kubectl get nodes` | List all nodes on the Kubernetes cluster. |
+| `kubectl run -it --rm --restart=Never <POD-NAME> --image=<IMAGE-NAME> <COMMAND>` | Installs the given image as a pod in the Kubernetes cluster, connect to it interactively and executes the supplied command. |
+| `kubectl exec <POD-NAME> -c <CONTAINER-NAME> -- <COMMAND>` | Execute the given command on the specified container running in the specified pod. |
 
 ## Resources
 
