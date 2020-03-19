@@ -12,3 +12,4 @@ This repo contains a set of cheat sheets often used by the Baseflow crew.
 | [Kubernetes](sheets/kubernetes.md) | Contains a list of commonly used Kubernetes (kubectl) commands. |
 | [Minikube](sheets/minikube.md) | Contains a list of commonly used Minikube commands. |
 | [PostgreSQL](sheets/postgresql.md) | Installing PostgreSQL on your Mac and a list of most common commands. |
+| [RabbitMQ](sheets/rabbitmq.ml) | MacOS Installation instructions for RabbitMQ Server. | 
