@@ -40,7 +40,7 @@ Here a short cheatsheet with commands I found usefull.
 | `psql -h host -d database -U user -W` | Connects to the database on host called "host" with the user "user" |
 | `psql -U user -h host "dbname=database sslmode=require"` | Connects to the database on host called "host" using a SSL connection with user "user" |
 
-## Usefull commands once you are connected
+## Useful commands once you are connected
 
 | Command | Description |
 |---------|-------------|

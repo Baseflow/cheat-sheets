@@ -25,3 +25,7 @@ rabbitmq-server
 ```
 
 > NOTE: if the `rabbitmq-server` command doesn't work you probably need to add the RabbitMQ installation directory to your path. To do so type the following command: `export PATH=$PATH:/usr/local/opt/rabbitmq/sbin`.
+
+## Useful links
+
+- RabbitMQ documentation: https://www.rabbitmq.com/documentation.html
