@@ -1,4 +1,4 @@
-# Docker Cheat Sheet
+# Azure CLI Cheat Sheet
 
 ## Login
 
