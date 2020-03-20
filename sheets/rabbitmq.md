@@ -26,6 +26,10 @@ rabbitmq-server
 
 > NOTE: if the `rabbitmq-server` command doesn't work you probably need to add the RabbitMQ installation directory to your path. To do so type the following command: `export PATH=$PATH:/usr/local/opt/rabbitmq/sbin`.
 
+> NOTE 2: by default the `rabbitmq` Homebrew formula also installs the RabbitMQ Management portal which you can access (once the `rabbitmq-server` is running) at http://localhost:15672/. The default credentials are:
+> - username: guest
+> - password: guest
+
 ## Useful links
 
 - RabbitMQ documentation: https://www.rabbitmq.com/documentation.html
