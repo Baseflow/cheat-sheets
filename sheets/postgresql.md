@@ -19,7 +19,7 @@ During the installation PostgreSQL will create a superuser account using the sam
 
 ```
 # Start the "psql" shell and connect to the "postgresql" database
-psql postgresql
+psql postgres
 ```
 
 To set a password for your (which is also the default) account type the following command:
